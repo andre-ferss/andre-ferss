@@ -1,4 +1,3 @@
-### Hi there 👋
 ## Salve!! André Aqui :)
 <br>
 
