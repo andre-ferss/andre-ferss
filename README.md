@@ -1,10 +1,10 @@
 ## Salve!! André Aqui 
 
-![Andrefer-Santtos GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrefer-Santtos&show_icons=true&theme=github_dark)
+![Andrefer-Santtos GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrefer-Santtos&show_icons=true&theme=midnight-purple)
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrefer-Santtos&layout=compact&theme=github_dark)](https://github.com/Andrefer-Santtos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrefer-Santtos&layout=compact&theme=midnight-purple)](https://github.com/Andrefer-Santtos/github-readme-stats)
 
 ##
 
