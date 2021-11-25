@@ -4,7 +4,7 @@
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.ap/api/top-langs/?username=Andrefer-Santtos&layout=compact&theme=midnight-purple)](https://github.com/Andrefer-Santtos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrefer-Santtos&layout=compact&theme=midnight-purple)](https://github.com/Andrefer-Santtos/github-readme-stats)
 
 ##
 
