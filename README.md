@@ -1,24 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+André;I'm+19+years+old;Welcome+to+Magic!)](https://git.io/typing-svg)
-
-##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+André;I'm+20+years+old;Welcome+to+Magic!)](https://git.io/typing-svg)
 
 <div align="center">
-<a href="https://github.com/Andrefer-Santtos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrefer-Santtos&show_icons=true&theme=midnight-purple" />
-</a>
-<a href="https://github.com/Andrefer-Santtos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrefer-Santtos&layout=compact&theme=midnight-purple" />
-</a>
-</div>
   
+  <a href="https://github.com/andre-ferss">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=andre-ferss&show_icons=true&theme=midnight-purple" />
+  </a>
+  <a href="https://github.com/andre-ferss">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-ferss&layout=compact&theme=midnight-purple" />
+  </a>
+  
+</div>
+
 ##
 
 <div align="center">
-
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,git,java,angular,nodejs,mysql,postgres)](https://skills.thijs.gg)
-
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nginx,git,mongo,docker,bash,java,spring,angular,nodejs,mysql,postgres)](https://skillicons.dev)
+  
 </div>
 
-![Snake animation](https://github.com/Andrefer-Santtos/Andrefer-Santtos/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  
+  ![Snake animation](https://github.com/andre-ferss/andre-ferss/blob/output/github-contribution-grid-snake.svg)
 
-##
+</div>
